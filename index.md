@@ -9,20 +9,19 @@ This project explores how robots can learn socially appropriate navigation behav
 
 **Authors:** Tribhi Kathuria, Ke Liu, Junwoo Jang, Maani Ghaffari Jadidi, X. Jessie Yang  
 **Published in:** *IEEE Robotics and Automation Letters (RAL)*, 2024  
-**DOI:** [10.1109/LRA.2024.3352386](https://doi.org/10.1109/LRA.2024.3352386)
+**DOI:** [10.1109/LRA.2025.3557299](https://doi.org/10.1109/LRA.2025.3557299)
 
 ---
 
 ## 📄 Paper
 - [PDF on arXiv](https://arxiv.org/pdf/2501.06946)
-- [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10456795)
-- [BibTeX](#citation)
+- [IEEE Xplore Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10947583)
 
 ## 🎥 Video (Coming Soon)
 <!-- Replace VIDEO_ID with your actual YouTube ID if available -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
-## 💻 Code (Coming Soon)
+## 💻 Code 
 The code is released at  
 👉 [https://github.com/UMich-CURLY/habicrowd/
 tree/main.](https://github.com/UMich-CURLY/habicrowd/
